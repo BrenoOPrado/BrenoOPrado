@@ -1,15 +1,9 @@
 ## Hello!! I'm Breno Prado 👋
 
-- 🌱 I’m currently learning JavaScript, HTML and CSS.
-- 👯 I’m looking to collaborate with a better world.
-- 💬 Ask me about anything and I'll show you I don't know much 🙆‍♀️
-
-##
-
 <div align="center">
-  <a href="https://github.com/clarareis">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=clarareis&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=clarareis&layout=compact&langs_count=7&theme=radical"/>
+  <a href="https://github.com/BrenoOPrado">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrenoOPrado&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoOPrado&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
 <div style="display: inline_block"> <br>
