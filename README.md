@@ -1,5 +1,11 @@
 ## Hello!! I'm Breno Prado 👋
 
+<h3 align="left">Would you like to find me?</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/breno-o-prado-desenvolvedor-web-jr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link" /></a>
+<a href="https://www.instagram.com/be_o_prado/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
+</p> 
+
 <h3 align="left">Languages and Tools:</h3>
 <table width="320px">
     <tbody>
@@ -40,10 +46,3 @@
         </tr>
     </tbody>
 </table>
-  
-  ##
- 
-<div> 
-  <a href="https://www.linkedin.com/in/breno-o-prado-desenvolvedor-web-jr/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-</div>
