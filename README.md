@@ -47,4 +47,4 @@
     </tbody>
 </table>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apiBrenoOPrado=anuraghazra&hide=contribs,prs)
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrenoOPrado&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
