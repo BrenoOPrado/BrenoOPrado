@@ -54,7 +54,7 @@
 
 ##
 
-<table>
+<table align="center">
 <tr><td>
 
   <a href="https://github.com/BrenoOPrado/github-readme-stats" rel="noopener noreferrer" target="_blank">
