@@ -11,11 +11,13 @@ var status =
 
 const skills = 
 {
-  languages :[Javascript, C#, HTML, CSS, Jest],
+  languages :[Javascript, C#, HTML, CSS],
   
   frameworks:[React],
   
   platforms :[Docker Container, Linux],
+  
+  testing :[Jest]
   
   softSkills :[Agile Methodologies, Communication, Collaboration]
 }
