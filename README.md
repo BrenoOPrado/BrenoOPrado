@@ -11,7 +11,7 @@ var status =
 
 const skills = 
 {
-  languages :[Javascript, C#, HTML, CSS],
+  languages :[Javascript, C#, HTML, CSS, Jest],
   
   frameworks:[React],
   
