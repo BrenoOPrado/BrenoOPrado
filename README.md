@@ -52,3 +52,7 @@
 ##
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrenoOPrado&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+
+##
+
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" />
