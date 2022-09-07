@@ -6,6 +6,8 @@
 <a href="https://www.instagram.com/be_o_prado/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
 </p> 
 
+##
+
 <h3 align="left">Languages and Tools:</h3>
 <table width="320px">
     <tbody>
@@ -46,5 +48,7 @@
         </tr>
     </tbody>
 </table>
+
+##
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrenoOPrado&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
