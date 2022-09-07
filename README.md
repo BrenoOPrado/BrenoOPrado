@@ -1,5 +1,27 @@
 ## Hello!! I'm Breno Prado 👋
 
+```js
+const name = 'Breno Oliveira do Prado';
+
+var status = 
+{ 
+  learning : [JavaScript, React, Docker],
+  interests: [Programming, Games, Investments]
+}
+
+const skills = 
+{
+  languages :[Javascript, C#, HTML],
+  
+  frameworks:[React],
+  
+  platforms :[Docker Container, Linux],
+}
+
+```
+
+##
+
 <h3 align="left">Would you like to find me?</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/breno-o-prado-desenvolvedor-web-jr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link" /></a>
