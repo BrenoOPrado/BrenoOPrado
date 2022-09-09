@@ -26,8 +26,8 @@ const skills =
 
 <h3 align="left">Would you like to find me?</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/breno-o-prado-desenvolvedor-web-jr/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin link" /></a>
-<a href="https://www.instagram.com/be_o_prado/" target="_blank"><img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Link"  /></a>
+<a href="https://www.linkedin.com/in/brenooprado/" target="blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>
+<a href="https://www.instagram.com/be_o_prado/" target="_blank"><img src="https://cdn.icon-icons.com/icons2/1211/PNG/512/1491579602-yumminkysocialmedia36_83067.png" width="48px" height="48px"></a>
 </p> 
 
 ##
