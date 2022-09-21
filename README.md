@@ -17,7 +17,7 @@ const skills =
   
   testing :[Jest]
   
-  softSkills :[Agile Methodologies, Communication, Collaboration]
+  softSkills :[Agile Methodologies, Communication, Collaboration, Leadership]
 }
 
 ```
