@@ -1,4 +1,4 @@
-## Hello!! I'm Breno Prado 👋
+## Hello!! I'm Breno O. Prado 👋
 
 ```js
 const name = 'Breno Oliveira do Prado';
