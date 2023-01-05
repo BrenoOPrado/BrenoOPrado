@@ -5,13 +5,13 @@ const name = 'Breno Oliveira do Prado';
 
 var status = 
 { 
-  learning : [MongoDB],
+  learning : [],
   interests: [Programming, Games, Investments],
 }
 
 const skills = 
 {
-  hardSkills: [TypeScript, Javascript, React, HTML, CSS, Jest, SQL, Docker, Node, C#, POO],
+  hardSkills: [TypeScript, Javascript, React, HTML, CSS, Jest, SQL, Docker, Node, C#, POO, MongoDB],
   
   softSkills: [Agile Methodologies, Communication, Collaboration, Leadership],
 }
