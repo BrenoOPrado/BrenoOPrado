@@ -11,7 +11,7 @@ var status =
 
 const skills = 
 {
-  hardSkills: [TypeScript, Javascript, React, HTML, CSS, Jest, SQL, Docker, Node, C#, POO, MongoDB],
+  hardSkills: [TypeScript, Javascript, React, Redux, HTML, CSS, Jest, SQL, Docker, Node.js, Express, C#, POO, MongoDB],
   
   softSkills: [Agile Methodologies, Communication, Collaboration, Leadership],
 }
