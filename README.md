@@ -20,6 +20,8 @@ const skills =
 
 ##
 
+<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250px" />
+
 <h3 align="left">Would you like to find me?</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/brenooprado/" target="blank"><img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px"></a>
@@ -27,8 +29,6 @@ const skills =
 </p> 
 
 ##
-
-<img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="250px" />
 
 <h3 align="left">Languages and Tools:</h3>
 
