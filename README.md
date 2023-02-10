@@ -72,9 +72,7 @@ const skills =
             </td>
         </tr>
       </tbody>
-  </table>
-  <table width="320px">
-    <tbody>
+      <tbody>
         <tr valign="top">
          <td width="80px" align="center">
             <span><strong>TypeScript</strong></span><br>
