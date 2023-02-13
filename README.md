@@ -5,7 +5,7 @@ const name = 'Breno Oliveira do Prado';
 
 var status = 
 { 
-  learning : [],
+  learning : [Python],
   interests: [Programming, Games, Investments],
 }
 
