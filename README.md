@@ -125,6 +125,10 @@ const skills =
             <span><strong>Trello</strong></span><br>
             <img height="32px" src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg">
           </td>
+          <td width="80px" align="center">
+            <span><strong>Python</strong></span><br>
+            <img height="32px" src="[https://www.vectorlogo.zone/logos/trello/trello-icon.svg](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png)">
+          </td>
         </tr>
     </tbody>
 </table>
