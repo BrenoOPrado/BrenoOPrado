@@ -132,24 +132,3 @@ const skills =
         </tr>
     </tbody>
 </table>
-
-##
-'''js
-/*
-<table align="center">
-<tr><td>
-
-  <a href="https://github.com/BrenoOPrado/github-readme-stats" rel="noopener noreferrer" target="_blank">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=BrenoOPrado&show_icons=true&theme=blue-green" />
-  </a>
-
-</td><td>
-
-  <a href="https://github.com/BrenoOPrado/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
-    <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoOPrado&layout=compact&theme=blue-green" />
-  </a>
-*/
-</td></tr>
-</table>
-*/
-'''
