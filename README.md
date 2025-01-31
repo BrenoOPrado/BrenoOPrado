@@ -134,7 +134,8 @@ const skills =
 </table>
 
 ##
-
+'''js
+/*
 <table align="center">
 <tr><td>
 
@@ -147,6 +148,8 @@ const skills =
   <a href="https://github.com/BrenoOPrado/github-readme-stats" rel="noopener noreferrer" target="_blank" target="_blank">
     <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoOPrado&layout=compact&theme=blue-green" />
   </a>
-
+*/
 </td></tr>
 </table>
+*/
+'''
